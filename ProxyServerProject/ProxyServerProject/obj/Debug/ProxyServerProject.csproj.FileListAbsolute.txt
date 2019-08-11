@@ -1,0 +1,16 @@
+D:\Tai_lieu_Dai_hoc\1. 2018-2019\HK2\MMT\Do_an_Socket\Project\ProxyServerProject\ProxyServerProject\bin\Debug\ProxyServerProject.exe.config
+D:\Tai_lieu_Dai_hoc\1. 2018-2019\HK2\MMT\Do_an_Socket\Project\ProxyServerProject\ProxyServerProject\bin\Debug\ProxyServerProject.exe
+D:\Tai_lieu_Dai_hoc\1. 2018-2019\HK2\MMT\Do_an_Socket\Project\ProxyServerProject\ProxyServerProject\bin\Debug\ProxyServerProject.pdb
+D:\Tai_lieu_Dai_hoc\1. 2018-2019\HK2\MMT\Do_an_Socket\Project\ProxyServerProject\ProxyServerProject\obj\Debug\ProxyServerProject.csprojAssemblyReference.cache
+D:\Tai_lieu_Dai_hoc\1. 2018-2019\HK2\MMT\Do_an_Socket\Project\ProxyServerProject\ProxyServerProject\obj\Debug\ProxyServerProject.csproj.CoreCompileInputs.cache
+D:\Tai_lieu_Dai_hoc\1. 2018-2019\HK2\MMT\Do_an_Socket\Project\ProxyServerProject\ProxyServerProject\obj\Debug\ProxyServerProject.exe
+D:\Tai_lieu_Dai_hoc\1. 2018-2019\HK2\MMT\Do_an_Socket\Project\ProxyServerProject\ProxyServerProject\obj\Debug\ProxyServerProject.pdb
+E:\0_Vấn đáp\ProxyServerProject\ProxyServerProject\bin\Debug\ProxyServerProject.exe.config
+E:\0_Vấn đáp\ProxyServerProject\ProxyServerProject\obj\Debug\ProxyServerProject.exe
+E:\0_Vấn đáp\ProxyServerProject\ProxyServerProject\obj\Debug\ProxyServerProject.pdb
+E:\0_Vấn đáp\ProxyServerProject\ProxyServerProject\bin\Debug\ProxyServerProject.exe
+E:\0_Vấn đáp\ProxyServerProject\ProxyServerProject\bin\Debug\ProxyServerProject.pdb
+E:\0_Vấn đáp\ProxyServerProject\ProxyServerProject\obj\Debug\ProxyServerProject.csprojResolveAssemblyReference.cache
+E:\1712\ProxyServerProject\ProxyServerProject\bin\Debug\ProxyServerProject.exe.config
+E:\1712\ProxyServerProject\ProxyServerProject\obj\Debug\ProxyServerProject.exe
+E:\1712\ProxyServerProject\ProxyServerProject\obj\Debug\ProxyServerProject.pdb

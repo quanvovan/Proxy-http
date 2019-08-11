@@ -1,0 +1,19 @@
+D:\Tai_lieu_Dai_hoc\1. 2018-2019\HK2\MMT\Do_an_Socket\Project\ProxyServerProject\ProxyServerProject\bin\Release\ProxyServerProject.exe.config
+D:\Tai_lieu_Dai_hoc\1. 2018-2019\HK2\MMT\Do_an_Socket\Project\ProxyServerProject\ProxyServerProject\bin\Release\ProxyServerProject.exe
+D:\Tai_lieu_Dai_hoc\1. 2018-2019\HK2\MMT\Do_an_Socket\Project\ProxyServerProject\ProxyServerProject\bin\Release\ProxyServerProject.pdb
+D:\Tai_lieu_Dai_hoc\1. 2018-2019\HK2\MMT\Do_an_Socket\Project\ProxyServerProject\ProxyServerProject\obj\Release\ProxyServerProject.csproj.CoreCompileInputs.cache
+D:\Tai_lieu_Dai_hoc\1. 2018-2019\HK2\MMT\Do_an_Socket\Project\ProxyServerProject\ProxyServerProject\obj\Release\ProxyServerProject.exe
+D:\Tai_lieu_Dai_hoc\1. 2018-2019\HK2\MMT\Do_an_Socket\Project\ProxyServerProject\ProxyServerProject\obj\Release\ProxyServerProject.pdb
+D:\Tai_lieu_Dai_hoc\1. 2018-2019\HK2\MMT\Do_an_Socket\Project\ProxyServerProject\ProxyServerProject\obj\Release\ProxyServerProject.csprojAssemblyReference.cache
+E:\0_Vấn đáp\ProxyServerProject\ProxyServerProject\bin\Release\ProxyServerProject.exe.config
+E:\0_Vấn đáp\ProxyServerProject\ProxyServerProject\obj\Release\ProxyServerProject.exe
+E:\0_Vấn đáp\ProxyServerProject\ProxyServerProject\obj\Release\ProxyServerProject.pdb
+E:\0_Vấn đáp\ProxyServerProject\ProxyServerProject\bin\Release\ProxyServerProject.exe
+E:\0_Vấn đáp\ProxyServerProject\ProxyServerProject\bin\Release\ProxyServerProject.pdb
+E:\0_Vấn đáp\ProxyServerProject\ProxyServerProject\obj\Release\ProxyServerProject.csprojResolveAssemblyReference.cache
+E:\1712\ProxyServerProject\ProxyServerProject\bin\Release\ProxyServerProject.exe.config
+E:\1712\ProxyServerProject\ProxyServerProject\obj\Release\ProxyServerProject.exe
+E:\1712\ProxyServerProject\ProxyServerProject\obj\Release\ProxyServerProject.pdb
+E:\1712\ProxyServerProject\ProxyServerProject\bin\Release\ProxyServerProject.exe
+E:\1712\ProxyServerProject\ProxyServerProject\bin\Release\ProxyServerProject.pdb
+E:\1712\ProxyServerProject\ProxyServerProject\obj\Release\ProxyServerProject.csprojResolveAssemblyReference.cache
